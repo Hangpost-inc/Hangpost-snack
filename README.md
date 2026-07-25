@@ -1,3 +1,8 @@
+> **LEGACY (founder decision 2026-07-25).** This repo was the canonical design
+> sandbox through June 2026. The native app (`Hangpost-Full-Stack/apps/native`)
+> has since shipped past it and is now the design source of truth. Kept for
+> history; no further development here.
+
 # Hangpost — Snack (UI/UX prototype)
 
 **Hangpost is a location-based social app for making new friends in your current
